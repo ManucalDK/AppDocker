@@ -1,0 +1,1 @@
+﻿From mcr.microsoft.com/dotnet/aspnet:5.0.101
