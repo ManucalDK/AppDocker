@@ -1,0 +1,7 @@
+﻿docker build --construir imagen
+docker run -- crea y ejecuta el contenedor
+docker ps -- lista los contenedores activos
+docker stop --detiene la ejecucion de un contenedor
+docker rm -- elimina un contenedor
+docker rmi -- elimina una imagen 
+docker image -- gestiona las imagenes
